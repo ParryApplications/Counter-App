@@ -1,0 +1,27 @@
+.Counter {
+    text-align: center;
+}
+
+.counterDisplay {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.resetBtn {
+    background-color: purple;
+    color: white;
+    width: 250px;
+    font-size: 30px;
+    margin: 20px 0px;
+    border-radius: 15px;
+    padding: 5px 8px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.resetBtn:active {
+    background-color: rgb(92, 0, 92);
+}
